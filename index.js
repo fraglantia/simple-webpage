@@ -1,5 +1,3 @@
-currentText = "Steve Bezalel";
-
 function blinking(state) {
   var title = document.getElementById("typing");
   if (state == true) {
